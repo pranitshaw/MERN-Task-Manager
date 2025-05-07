@@ -189,5 +189,5 @@ Inside backend folder:
 
 ## Contact
 
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+- Email: pranit.shaw004@gmail.com
+- Linkedin: www.linkedin.com/in/pranit-shaw-71a862227
